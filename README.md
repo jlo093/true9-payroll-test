@@ -28,7 +28,7 @@ Or, alternatively, you can use Docker and spin up the necessary containers by ru
 ````bash
 docker compose up -d
 ````
-Environment will run on http://127.0.0.1:8000
+Environment will run on http://localhost/
 
 ## Tests
 
